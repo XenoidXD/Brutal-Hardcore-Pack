@@ -13,7 +13,7 @@ or you can download it
 # Important!
 This is not a native plugin used in brutal hardcore servers. Of course, different creators have different logics and algorithms. We only make replicas. We are no hotter than Yazan
 
-
+# Note
 If you have questions or suggestions or want to report a bug. You can contact the email xenoidpersonal@gmail.com
 You can also create your custom plugin by contacting email or www.discord.com/users/757223878157402203 Of course it's not free
 # Made by Xenoid
